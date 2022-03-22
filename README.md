@@ -13,7 +13,7 @@
 <tr>
 <td><a href="https://github.com/Senlar/ncrp_issues"><img src="https://img.shields.io/badge/TOTAL-ISSUES-blue?style=for-the-badge"></a></td>
 <td><a href="https://github.com/Senlar/ncrp_issues/issues"><img src="https://img.shields.io/github/issues-raw/Senlar/ncrp_issues?style=for-the-badge"></a></td>
-<td><img src="https://img.shields.io/github/issues-closed-raw/Senlar/ncrp_issues?style=for-the-badge"></td>
+<td><a href="https://github.com/Senlar/ncrp_issues/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/Senlar/ncrp_issues?style=for-the-badge"></a></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Senlar/ncrp_issues/issues/new?assignees=&labels=bug&template=bug-reports.md&title="><img src="https://img.shields.io/badge/REPORT-BUG-red?style=for-the-badge"></a></td>
