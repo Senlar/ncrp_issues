@@ -1,20 +1,20 @@
 ---
-name: *FEATURE TITLE HERE*
-about: If you want something added to New Chance RP use this format.
-title: Feature Request
-labels: Feature Request
+name: Feature Request
+about: Suggest an idea for this project
+title: ''
+labels: bug
 assignees: ''
 
 ---
 
-<h2>What is your feature request?</h2>
+<h2>Feature you are requesting</h2>
 
-*DELETE THIS LINE Take your time, explain in as much detail as possible as to what you think could be a good feature for the server.*
+*DELETE THIS LINE - Describe in good detail the feature you wish to have implemented, the more detail the better.*
 
-<h2>What are the benefits of your idea?</h2>
+<h2>What are the benefits to your feature?</h2>
 
-*DELETE THIS LINE Explain how you think the server will benefit from the idea*
+*DELETE THIS LINE - Describe the positive / negative impacts your feature could have*
 
-<h2>Anything to support your idea?</h2>
+<h2>Anything to support your feature request?</h2>
 
-*DELETE THIS LINE Is there anything you can add which will help sell your idea, pictures, diagrams etc?*
+*DELETE THIS LINE - If you have anything extra to provide, pictures or videos etc to help sell your idea put them here.*

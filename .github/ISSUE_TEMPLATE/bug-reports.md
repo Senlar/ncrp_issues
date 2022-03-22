@@ -2,7 +2,7 @@
 name: Bug reports
 about: Something not working the way it's intended? Use this format.
 title: ''
-labels: Bug
+labels: bug
 assignees: ''
 
 ---
