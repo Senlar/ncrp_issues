@@ -31,6 +31,12 @@
 <td><a href="https://github.com/Senlar/ncrp_issues/labels/new%20feature"><img src="https://img.shields.io/github/issues/Senlar/ncrp_issues/new feature?style=for-the-badge"></a></td>
 <td><a href="https://github.com/Senlar/ncrp_issues/issues?q=is%3Aclosed+label%3A%22new+feature%22+"><img src="https://img.shields.io/github/issues-closed/Senlar/ncrp_issues/new feature?style=for-the-badge"></a></td>
 </tr>
+ 
+<tr>
+<td><a href="https://github.com/Senlar/ncrp_issues/labels/project"><img src="https://img.shields.io/badge/PROJECT-LIST-ff9933?style=for-the-badge"></a></td>
+<td><a href="https://github.com/Senlar/ncrp_issues/labels/project"><img src="https://img.shields.io/github/issues/Senlar/ncrp_issues/project?style=for-the-badge"></a></td>
+<td><a href="https://github.com/Senlar/ncrp_issues/project?q=is%3Aclosed+label%3A%22new+feature%22+"><img src="https://img.shields.io/github/issues-closed/Senlar/ncrp_issues/project?style=for-the-badge"></a></td>
+</tr>
 </tbody>
 </table>
 
