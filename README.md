@@ -22,12 +22,12 @@
 
 </tr>
 <tr>
-<td><a href="https://github.com/Senlar/ncrp_issues/issues/new?assignees=&labels=enhancement&template=enhancement-request.md&title="><img src="https://img.shields.io/badge/REQUEST-ENHANCEMENT-9BEEEF?style=for-the-badge"></a></td>
+<td><a href="https://senlar.userecho.com/"><img src="https://img.shields.io/badge/REQUEST-ENHANCEMENT-9BEEEF?style=for-the-badge"></a></td>
 <td><a href="https://github.com/Senlar/ncrp_issues/labels/enhancement"><img src="https://img.shields.io/github/issues/Senlar/ncrp_issues/enhancement?style=for-the-badge"></a></td>
 <td><a href="https://github.com/Senlar/ncrp_issues/issues?q=label%3Aenhancement+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/Senlar/ncrp_issues/enhancement?style=for-the-badge"></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Senlar/ncrp_issues/issues/new?assignees=&labels=bug&template=feature-request.md&title="><img src="https://img.shields.io/badge/REQUEST-FEATURE-7357F8?style=for-the-badge"></a></td>
+<td><a href="https://senlar.userecho.com/"><img src="https://img.shields.io/badge/REQUEST-FEATURE-7357F8?style=for-the-badge"></a></td>
 <td><a href="https://github.com/Senlar/ncrp_issues/labels/new%20feature"><img src="https://img.shields.io/github/issues/Senlar/ncrp_issues/new feature?style=for-the-badge"></a></td>
 <td><a href="https://github.com/Senlar/ncrp_issues/issues?q=is%3Aclosed+label%3A%22new+feature%22+"><img src="https://img.shields.io/github/issues-closed/Senlar/ncrp_issues/new feature?style=for-the-badge"></a></td>
 </tr>
